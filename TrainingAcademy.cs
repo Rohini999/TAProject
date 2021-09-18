@@ -11,6 +11,8 @@ namespace TAProject
     {
         static void Main(string[] args)
         {
+
+
             Console.WriteLine("***********************************************************");
             Console.WriteLine("=================== ACADEMY DETAILS ========================");
             Console.WriteLine("************************************************************");
